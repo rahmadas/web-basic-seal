@@ -153,6 +153,9 @@ ul li a:hover{
 }
 
 
-
-
+/* id */
+.menu {
+    z-index: 1000;
+    cursor: pointer;
+}
 
